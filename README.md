@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## GITHUB TUTORIAL
+
+In this repository you will learn how to:
+
+    * Create and use a repository
+    * Start and manage a new branch
+    * Make changes to a file and push them to GitHub as commits
+    * Open and merge a pull request
+
+Let’s get started with GitHub! :blush:
 
 You can use the [editor on GitHub](https://github.com/eduardomacetas/GithubTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
