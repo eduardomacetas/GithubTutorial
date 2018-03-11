@@ -9,6 +9,18 @@ In this repository you will learn how to:
 
 Let’s get started with GitHub! :blush:
 
+## What is Github?
+
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+This tutorial teaches you GitHub essentials like Repositories, Branches, Commits, and Pull Requests. You will create your own  repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.
+
+![Image of Yaktocat] (https://octodex.github.com/octobiwan)
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/eduardomacetas/GithubTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
