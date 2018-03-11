@@ -18,6 +18,9 @@ This tutorial teaches you GitHub essentials like Repositories, Branches, Commits
 ![Image of Yaktocat] (https://octodex.github.com/octobiwan)
 
 
+![alt text][logo]
+[logo]: https://octodex.github.com/octobiwan
+
 
 
 
