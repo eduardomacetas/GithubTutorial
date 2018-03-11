@@ -17,7 +17,7 @@ This tutorial teaches you GitHub essentials like Repositories, Branches, Commits
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Octobiwan"
+[logo]: https://octodex.github.com/images/octobiwan.jpg "Octobiwan"
 
 
 
