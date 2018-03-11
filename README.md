@@ -17,7 +17,7 @@ This tutorial teaches you GitHub essentials like Repositories, Branches, Commits
 
 ![alt text](https://octodex.github.com/images/octobiwan.jpg =100x100) "Octobiwan"
 ![](https://octodex.github.com/images/octobiwan.jpg?v=2&s=50)"Octobiwan"
-<img src="https://octodex.github.com/images/octobiwan.jpg " width="50" height="50">
+<img src="https://octodex.github.com/images/octobiwan.jpg" width="50" height="50">
 
 
 
