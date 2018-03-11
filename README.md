@@ -15,9 +15,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 This tutorial teaches you GitHub essentials like Repositories, Branches, Commits, and Pull Requests. You will create your own  repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.
 
-![alt text](https://octodex.github.com/images/octobiwan.jpg =100x100) "Octobiwan"
-![](https://octodex.github.com/images/octobiwan.jpg?v=2&s=50)"Octobiwan"
-<img src="https://octodex.github.com/images/octobiwan.jpg" width="50" height="50">
+<img src="https://octodex.github.com/images/octobiwan.jpg" width="75" height="75">
 
 
 
