@@ -31,7 +31,13 @@ A repository is usually used to organize a single project. Repositories can cont
 3. Write a short description. 
 4. Choose to make the repository either public or private. 
 5. Select **Initialize this repository with a README**.
+```
 
+<p align="center">
+    <img src="https://octodex.github.com/images/octobiwan.jpg" width="100" height="100">
+</p>
+
+```markdown
 #NOTE: Public Repositories are visible to the public,  
 #while Private Repositories are only accessible to you, and people you share them with.  
 #Your account must be on a paid plan to create a private repository. 
