@@ -64,7 +64,19 @@ In the next diagram shows:
 
 From [GitHub Guides: "Hello World"](https://guides.github.com/activities/hello-world/branching.png)
 
-Use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
+Use branches for keeping bug fixes and feature work separate from our `master` (production) branch. When a change is ready, they merge their branch into `master`.
+
+### Create a New Branch
+
+```markdown
+1. Go to your new repository `FirstRepository`.
+2. Click the drop down at the top of the file list that says branch: `master`.
+3. Type a branch name `First-branch` into the new branch text box.
+4. Select the blue Create branch box or hit “Enter”.
+```
+
+
+
 
 
 
