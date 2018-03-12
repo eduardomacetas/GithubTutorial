@@ -58,6 +58,12 @@ In the next diagram shows:
     * A new branch called **Feature** (because we’re doing `feature work` on this branch)
     * The journey that feature takes before it’s merged into master
 ```
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/branching.png" width="300" height="150">
+</p>
+
+From [GitHub Guides logo](https://guides.github.com/activities/hello-world/branching.png)
+
 
 
 
