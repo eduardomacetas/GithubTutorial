@@ -34,10 +34,9 @@ A repository is usually used to organize a single project. Repositories can cont
 ```
 
 <p align="center">
-    <img src="https://octodex.github.com/images/octobiwan.jpg" width="100" height="100">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_new_repository.png" width="100" height="100">
 </p>
 
-a
 
 ```markdown
 #NOTE: Public Repositories are visible to the public,  
