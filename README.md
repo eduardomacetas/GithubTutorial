@@ -46,7 +46,9 @@ A repository is usually used to organize a single project. Repositories can cont
 
 Congratulations you created your first repository :blush: :tada: :tada: 
 
+## 2.  Create a Branch
 
+**Branching** is the way to work on different versions of a repository at one time.
 
 You can use the [editor on GitHub](https://github.com/eduardomacetas/GithubTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
