@@ -75,7 +75,7 @@ Use branches for keeping bug fixes and feature work separate from our `master` (
 4. Select the blue Create branch box or hit “Enter”.
 ```
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_branch.png" width="600" height="300">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_branch.png" width="500" height="350">
 </p>
 
 
