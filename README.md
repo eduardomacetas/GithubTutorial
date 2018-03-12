@@ -27,7 +27,7 @@ A repository is usually used to organize a single project. Repositories can cont
 
 ```markdown
 1. In the upper right corner, next to your avatar, click and then select **New repository**.
-2. Name your repository `First-Repository`.
+2. Name your repository `FirstRepository`.
 3. Write a short description. 
 4. Choose to make the repository either public or private. 
 5. Select **Initialize this repository with a README**.
@@ -43,6 +43,10 @@ A repository is usually used to organize a single project. Repositories can cont
 #while Private Repositories are only accessible to you, and people you share them with.  
 #Your account must be on a paid plan to create a private repository. 
 ```
+
+Congratulations you created your first repository :blush: :tada: :tada: 
+
+
 
 You can use the [editor on GitHub](https://github.com/eduardomacetas/GithubTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
