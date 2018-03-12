@@ -50,6 +50,17 @@ Congratulations you created your first repository :blush: :tada: :tada:
 
 **Branching** is the way to work on different versions of a repository at one time.
 
+By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
+
+In the next diagram shows:
+
+    * The master branch
+    * A new branch called feature (because we’re doing ‘feature work’ on this branch)
+    * The journey that feature takes before it’s merged into master
+
+
+
+
 You can use the [editor on GitHub](https://github.com/eduardomacetas/GithubTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
