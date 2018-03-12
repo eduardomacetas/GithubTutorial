@@ -69,13 +69,14 @@ Use branches for keeping bug fixes and feature work separate from our `master` (
 ### Create a New Branch
 
 ```markdown
-1. Go to your new repository `FirstRepository`.
+1. Go to your repository `FirstRepository`.
 2. Click the drop down at the top of the file list that says branch: `master`.
 3. Type a branch name `First-branch` into the new branch text box.
 4. Select the blue Create branch box or hit “Enter”.
 ```
-
-
+<p align="center">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_branch.png" width="600" height="300">
+</p>
 
 
 
