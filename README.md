@@ -53,11 +53,11 @@ Congratulations you created your first repository :blush: :tada: :tada:
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
 
 In the next diagram shows:
-
+```markdown
     * The master branch
-    * A new branch called feature (because we’re doing ‘feature work’ on this branch)
+    * A new branch called **Feature** (because we’re doing `feature work` on this branch)
     * The journey that feature takes before it’s merged into master
-
+```
 
 
 
