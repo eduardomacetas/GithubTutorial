@@ -34,7 +34,7 @@ A repository is usually used to organize a single project. Repositories can cont
 ```
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_new_repository.png">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_new_repository.png" width="400" height="400">
 </p>
 
 
