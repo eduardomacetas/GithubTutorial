@@ -19,7 +19,21 @@ This tutorial teaches you GitHub essentials like Repositories, Branches, Commits
     <img src="https://octodex.github.com/images/octobiwan.jpg" width="100" height="100">
 </p>
 
+## 1. Create a Repository
 
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. I recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+
+### Create a new repository
+
+```
+1. In the upper right corner, next to your avatar, click and then select **New repository**.
+2. Name your repository `First-Repository`.
+3. Write a short description. 
+4. Choose to make the repository either public or private. 
+5. Select **Initialize this repository with a README**.
+
+#NOTE: Public repositories are visible to the public, while private repositories are only accessible to you, and people you share them with. Your account must be on a paid plan to create a private repository. 
+```
 
 You can use the [editor on GitHub](https://github.com/eduardomacetas/GithubTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
