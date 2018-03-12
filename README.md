@@ -59,10 +59,10 @@ In the next diagram shows:
     * The journey that feature takes before it’s merged into master
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/branching.png" width="300" height="150">
+    <img src="https://guides.github.com/activities/hello-world/branching.png" width="600" height="250">
+    From [GitHub Guides logo](https://guides.github.com/activities/hello-world/branching.png)
 </p>
 
-From [GitHub Guides logo](https://guides.github.com/activities/hello-world/branching.png)
 
 
 
