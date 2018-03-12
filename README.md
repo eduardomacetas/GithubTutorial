@@ -25,7 +25,7 @@ A repository is usually used to organize a single project. Repositories can cont
 
 ### Create a new repository
 
-```
+```markdown
 1. In the upper right corner, next to your avatar, click and then select **New repository**.
 2. Name your repository `First-Repository`.
 3. Write a short description. 
