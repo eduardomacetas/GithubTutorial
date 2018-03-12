@@ -62,7 +62,9 @@ In the next diagram shows:
     <img src="https://guides.github.com/activities/hello-world/branching.png" width="850" height="250">
 </p>
 
-From [GitHub Guides logo](https://guides.github.com/activities/hello-world/branching.png)
+From [GitHub Guides: "Hello World"](https://guides.github.com/activities/hello-world/branching.png)
+
+Use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
 
 
 
