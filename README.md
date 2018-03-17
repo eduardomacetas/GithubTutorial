@@ -132,5 +132,38 @@ Click on the image for a larger version
 1. Click the **Pull Request tab**, then from the Pull Request page, click the green New pull request button.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/pr-tab.gif" width="100" height="100">
+    <img src="https://guides.github.com/activities/hello-world/pr-tab.gif" width="600" height="250">
 </p>
+
+```markdown
+2. In the **Example Comparisons** box, select the branch you made, `readme-edits`, to compare with `master` (the original).
+```
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/pick-branch.png" width="600" height="250">
+</p>
+
+```markdown
+3. Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
+```
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/diff.png" width="600" height="250">
+</p>
+
+```markdown
+4. When you’re satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button.
+```
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/create-pr.png" width="600" height="250">
+</p>
+
+```markdown
+5. Give your pull request a title and write a brief description of your changes.
+```
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/pr-form.png" width="600" height="250">
+</p>
+
+When you are done with your message, click **Create pull request** :grin:
+
+
+
