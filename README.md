@@ -99,11 +99,11 @@ On GitHub, saved changes are called **commits**. Each commit has an associated c
 ```
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit01.png" width="600" height="150">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit01.PNG" width="600" height="150">
 </p>
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit02.png" width="600" height="150">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit02.PNG" width="600" height="150">
 </p>
 
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that iss different from master.
