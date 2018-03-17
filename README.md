@@ -34,7 +34,7 @@ A repository is usually used to organize a single project. Repositories can cont
 ```
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_new_repository.png" width="600" height="450">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/master/img/create_new_repository.png" width="600" height="450">
 </p>
 
 
@@ -75,7 +75,7 @@ Use branches for keeping bug fixes and feature work separate from our `master` (
 4. Select the blue Create branch box or hit “Enter”.
 ```
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/create_branch.png" width="600" height="150">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/master/img/create_branch.png" width="600" height="150">
 </p>
 
 Now you have two branches, **master** and **First-branch**. They look exactly the same, but not for long! 
@@ -99,11 +99,11 @@ On GitHub, saved changes are called **commits**. Each commit has an associated c
 ```
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit01.PNG" width="600" height="200">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/master/img/commit01.PNG" width="600" height="200">
 </p>
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit02.PNG" width="600" height="200">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/master/img/commit02.PNG" width="600" height="200">
 </p>
 
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that iss different from master.
