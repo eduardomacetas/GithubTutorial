@@ -136,7 +136,8 @@ Click on the image for a larger version
 </p>
 
 ```markdown
-2. In the **Example Comparisons** box, select the branch you made, `readme-edits`, to compare with `master` (the original).
+2. In the **Example Comparisons** box, select the branch you made, `readme-edits`, to compare with `master`  
+(the original).
 ```
 <p align="center">
     <img src="https://guides.github.com/activities/hello-world/pick-branch.png" width="600" height="250">
@@ -150,7 +151,8 @@ Click on the image for a larger version
 </p>
 
 ```markdown
-4. When you’re satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button.
+4. When you’re satisfied that these are the changes you want to submit,  
+click the big green **Create Pull Request** button.
 ```
 <p align="center">
     <img src="https://guides.github.com/activities/hello-world/create-pr.png" width="600" height="250">
@@ -165,5 +167,30 @@ Click on the image for a larger version
 
 When you are done with your message, click **Create pull request** :grin:
 
+## 5. Merge your Pull Request
 
+In this final step, it is time to bring your changes together – merging your `readme-edits` branch into the `master` branch.
 
+```markdown
+1. Click the green **Merge pull** request button to merge the changes into `master`.
+2. Click **Confirm merge**.
+3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
+```
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/merge-button.png" width="600" height="250">
+</p>
+
+## That's all folks
+
+You’ve learned to create a project and make a pull request on GitHub! :wink: 
+
+Here’s what you accomplished in this tutorial:
+    
+    * Created an open source repository
+    * Started and managed a new branch
+    * Changed a file and committed those changes to GitHub
+    * Opened and merged a Pull Request
+
+Take a look at your GitHub profile and you’ll see your new [contribution squares](https://help.github.com/articles/viewing-contributions-on-your-profile/)
+
+To learn more about the power of Pull Requests, we recommend reading the [GitHub Flow Guide](https://guides.github.com/introduction/flow/). You might also visit [GitHub Explore](https://github.com/explore) and get involved in an Open Source project :octocat:
