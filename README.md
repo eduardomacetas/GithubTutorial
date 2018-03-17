@@ -82,43 +82,32 @@ Now you have two branches, **master** and **First-branch**. They look exactly th
 
 Nice you created your first branch :blush: :tada: :tada: 
 
+## 3. Make and commit changes
 
+Great!!! Now, you are on the code view for your **First-branch branch**, which is a copy of master. Let’s make some edits.
 
+On GitHub, saved changes are called **commits**. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
 
-
-
-You can use the [editor on GitHub](https://github.com/eduardomacetas/GithubTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Make and commits changes
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Click the README.md file.
+2. Click the pencil icon in the upper right corner of the file view to edit.
+3. In the editor, write a bit about yourself
+4. Write a commit message that describes your changes.
+5. Click **Commit changes** button.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align="center">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit01.png" width="600" height="150">
+</p>
 
-### Jekyll Themes
+<p align="center">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit02.png" width="600" height="150">
+</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardomacetas/GithubTutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that iss different from master.
 
-### Support or Contact
+Good! :blush: :tada: :tada: 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 4. Open a Pull Request
