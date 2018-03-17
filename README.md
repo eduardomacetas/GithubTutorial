@@ -177,7 +177,11 @@ In this final step, it is time to bring your changes together – merging your `
 3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/merge-button.png" width="600" height="250">
+    <img src="https://guides.github.com/activities/hello-world/merge-button.png" width="550" height="200">
+</p>
+
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/delete-button.png" width="550" height="200">
 </p>
 
 ## That's all folks
