@@ -99,11 +99,11 @@ On GitHub, saved changes are called **commits**. Each commit has an associated c
 ```
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit01.PNG" width="600" height="150">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit01.PNG" width="600" height="200">
 </p>
 
 <p align="center">
-    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit02.PNG" width="600" height="150">
+    <img src="https://github.com/eduardomacetas/GithubTutorial/blob/tutorialv1/img/commit02.PNG" width="600" height="200">
 </p>
 
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that iss different from master.
@@ -111,3 +111,26 @@ These changes will be made to just the README file on your readme-edits branch, 
 Good! :blush: :tada: :tada: 
 
 ## 4. Open a Pull Request
+
+Good Work :sunglasses: 
+
+Now that you have changes in a branch off of master, you can open a pull request.
+
+**Pull Requests** are the heart of collaboration on GitHub. When you open a pull request, you are proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+
+As soon as you make a commit, you can open a **pull request** and start a discussion, even before the code is finished.
+
+By using GitHub’s [mention system](https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar) in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
+
+You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+
+### Open a Pull Request for changes to the README
+
+Click on the image for a larger version
+
+```markdown
+1. Click the **Pull Request tab**, then from the Pull Request page, click the green New pull request button.
+```
+<p align="center">
+    <img src="https://guides.github.com/activities/hello-world/pr-tab.gif" width="100" height="100">
+</p>
