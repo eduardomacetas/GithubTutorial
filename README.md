@@ -132,7 +132,7 @@ Click on the image for a larger version
 1. Click the **Pull Request tab**, then from the Pull Request page, click the green New pull request button.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/pr-tab.gif" width="600" height="250">
+    <img src="https://guides.github.com/activities/hello-world/pr-tab.gif" width="400" height="200">
 </p>
 
 ```markdown
