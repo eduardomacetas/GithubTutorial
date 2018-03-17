@@ -162,7 +162,7 @@ click the big green **Create Pull Request** button.
 5. Give your pull request a title and write a brief description of your changes.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/pr-form.png" width="600" height="250">
+    <img src="https://guides.github.com/activities/hello-world/pr-form.png" width="500" height="150">
 </p>
 
 When you are done with your message, click **Create pull request** :grin:
@@ -174,14 +174,15 @@ In this final step, it is time to bring your changes together – merging your `
 ```markdown
 1. Click the green **Merge pull** request button to merge the changes into `master`.
 2. Click **Confirm merge**.
-3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
+3. Go ahead and delete the branch, since its changes have been incorporated,  
+with the **Delete branch** button in the purple box.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/merge-button.png" width="550" height="200">
+    <img src="https://guides.github.com/activities/hello-world/merge-button.png" width="500" height="100">
 </p>
 
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/delete-button.png" width="550" height="200">
+    <img src="https://guides.github.com/activities/hello-world/delete-button.png" width="500" height="100">
 </p>
 
 ## That's all folks
