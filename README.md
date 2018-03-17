@@ -132,7 +132,7 @@ Click on the image for a larger version
 1. Click the **Pull Request tab**, then from the Pull Request page, click the green New pull request button.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/pr-tab.gif" width="400" height="200">
+    <img src="https://guides.github.com/activities/hello-world/pr-tab.gif" width="650" height="180">
 </p>
 
 ```markdown
@@ -140,14 +140,14 @@ Click on the image for a larger version
 (the original).
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/pick-branch.png" width="600" height="250">
+    <img src="https://guides.github.com/activities/hello-world/pick-branch.png" width="450" height="150">
 </p>
 
 ```markdown
 3. Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/diff.png" width="600" height="250">
+    <img src="https://guides.github.com/activities/hello-world/diff.png" width="500" height="250">
 </p>
 
 ```markdown
@@ -155,7 +155,7 @@ Click on the image for a larger version
 click the big green **Create Pull Request** button.
 ```
 <p align="center">
-    <img src="https://guides.github.com/activities/hello-world/create-pr.png" width="600" height="250">
+    <img src="https://guides.github.com/activities/hello-world/create-pr.png" width="450" height="150">
 </p>
 
 ```markdown
